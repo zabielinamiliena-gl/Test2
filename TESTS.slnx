@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Test2/Test2.csproj">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
+  <Project Path="Test3/Test3.csproj">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
+</Solution>
